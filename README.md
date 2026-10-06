@@ -1,5 +1,7 @@
 # GrassCheck
 
+![GrassCheck project card](docs/grasscheck-card.svg)
+
 GrassCheck is a tiny, transparent, offline AI that turns a sentence about how you feel into three realistic reasons to close the screen and go outside.
 
 It was created during the **Hacktoberfest Open-Source AI Challenge: Week 1 — Touch Grass** (October 5–11, 2026). The project deliberately uses a small model and a short interaction: the screen should be the shortest part of an outdoor experience.
